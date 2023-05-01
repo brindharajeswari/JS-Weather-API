@@ -18,9 +18,10 @@ This is a simple weather API built with JavaScript and the OpenWeatherMap API th
 ![img](/images/chennai.png)
 
 # Technologies Used
-JavaScript
-HTML
-CSS
+- HTML
+- CSS
+- JavaScript
+
 ![js](/images/html-css-javascript-png.png)
 
 ------------------------------------------------------------
