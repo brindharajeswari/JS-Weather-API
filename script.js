@@ -76,7 +76,7 @@ const getWeatherIcon = (weatherCondition) => {
 			imagePath = '/images/snow.png';
 			break;
 		case 'Thunderstorms':
-			imagePath = '/images/thunderstorms.png';
+			imagePath = '/images/thunderstorm.png';
 			break;
 		default:
 			imagePath = '/images/partly-cloudy.png';
