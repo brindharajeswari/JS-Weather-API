@@ -1,4 +1,4 @@
-const API_KEY = '8fd3a056705c5a7f08538daa4121ac2e'; //OpenWeather API key
+const API_KEY = '**************************'; //OpenWeather API key
 
 // DOM Elements
 

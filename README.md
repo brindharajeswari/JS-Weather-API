@@ -22,3 +22,9 @@ JavaScript
 HTML
 CSS
 ![js](/images/html-css-javascript-png.png)
+
+------------------------------------------------------------
+
+Live Site - https://js-weather-api23.netlify.app/
+
+-------------------------------------------------------------
